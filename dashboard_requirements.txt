@@ -1,0 +1,5 @@
+ultralytics==8.3.229
+streamlit==1.29.0
+pillow==10.1.0
+numpy==1.25.0
+opencv-python==4.9.0.80

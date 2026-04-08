@@ -1,0 +1,1129 @@
+[
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5556201338768005,
+        "time": "2026-02-01 22:24:49",
+        "image_path": "alerts/images/cam0_20260201_222449.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4565318822860718,
+        "time": "2026-02-01 22:24:49",
+        "image_path": "alerts/images/cam0_20260201_222449.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44376078248023987,
+        "time": "2026-02-01 22:24:49",
+        "image_path": "alerts/images/cam0_20260201_222449.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4234967529773712,
+        "time": "2026-02-01 22:24:49",
+        "image_path": "alerts/images/cam0_20260201_222449.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5558366775512695,
+        "time": "2026-02-01 22:24:50",
+        "image_path": "alerts/images/cam0_20260201_222450.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5452442169189453,
+        "time": "2026-02-01 22:24:50",
+        "image_path": "alerts/images/cam0_20260201_222450.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7817080616950989,
+        "time": "2026-02-01 22:24:50",
+        "image_path": "alerts/images/cam0_20260201_222450.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7599014639854431,
+        "time": "2026-02-01 22:24:51",
+        "image_path": "alerts/images/cam0_20260201_222451.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5370678901672363,
+        "time": "2026-02-01 22:24:51",
+        "image_path": "alerts/images/cam0_20260201_222451.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4947209656238556,
+        "time": "2026-02-01 22:24:51",
+        "image_path": "alerts/images/cam0_20260201_222451.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5483751893043518,
+        "time": "2026-02-01 22:24:51",
+        "image_path": "alerts/images/cam0_20260201_222451.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4760589301586151,
+        "time": "2026-02-01 22:24:51",
+        "image_path": "alerts/images/cam0_20260201_222451.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5571774244308472,
+        "time": "2026-02-01 22:24:54",
+        "image_path": "alerts/images/cam0_20260201_222454.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4690731167793274,
+        "time": "2026-02-01 22:24:54",
+        "image_path": "alerts/images/cam0_20260201_222454.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.55544114112854,
+        "time": "2026-02-01 22:24:54",
+        "image_path": "alerts/images/cam0_20260201_222454.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.49242740869522095,
+        "time": "2026-02-01 22:24:54",
+        "image_path": "alerts/images/cam0_20260201_222454.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4169754981994629,
+        "time": "2026-02-01 22:24:54",
+        "image_path": "alerts/images/cam0_20260201_222454.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4670293629169464,
+        "time": "2026-02-01 22:24:55",
+        "image_path": "alerts/images/cam0_20260201_222455.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.58465975522995,
+        "time": "2026-02-01 22:24:56",
+        "image_path": "alerts/images/cam0_20260201_222456.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5067249536514282,
+        "time": "2026-02-01 22:24:56",
+        "image_path": "alerts/images/cam0_20260201_222456.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6002747416496277,
+        "time": "2026-02-01 22:24:58",
+        "image_path": "alerts/images/cam0_20260201_222458.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5201011896133423,
+        "time": "2026-02-01 22:25:00",
+        "image_path": "alerts/images/cam0_20260201_222500.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.42874497175216675,
+        "time": "2026-02-01 22:25:00",
+        "image_path": "alerts/images/cam0_20260201_222500.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.48714399337768555,
+        "time": "2026-02-01 22:25:00",
+        "image_path": "alerts/images/cam0_20260201_222500.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4216611981391907,
+        "time": "2026-02-01 22:25:02",
+        "image_path": "alerts/images/cam0_20260201_222502.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.41488131880760193,
+        "time": "2026-02-01 22:25:02",
+        "image_path": "alerts/images/cam0_20260201_222502.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6697332262992859,
+        "time": "2026-02-01 22:25:04",
+        "image_path": "alerts/images/cam0_20260201_222504.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.760758101940155,
+        "time": "2026-02-01 22:25:05",
+        "image_path": "alerts/images/cam0_20260201_222505.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7588416337966919,
+        "time": "2026-02-01 22:25:05",
+        "image_path": "alerts/images/cam0_20260201_222505.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5646785497665405,
+        "time": "2026-02-01 22:25:05",
+        "image_path": "alerts/images/cam0_20260201_222505.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5488535165786743,
+        "time": "2026-02-01 22:25:05",
+        "image_path": "alerts/images/cam0_20260201_222505.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7272161841392517,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4249769449234009,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7287373542785645,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7117533087730408,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6292161345481873,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44363608956336975,
+        "time": "2026-02-01 22:25:07",
+        "image_path": "alerts/images/cam0_20260201_222507.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5067440867424011,
+        "time": "2026-02-01 22:25:09",
+        "image_path": "alerts/images/cam0_20260201_222509.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.48971349000930786,
+        "time": "2026-02-01 22:25:09",
+        "image_path": "alerts/images/cam0_20260201_222509.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.48333171010017395,
+        "time": "2026-02-01 22:25:09",
+        "image_path": "alerts/images/cam0_20260201_222509.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.8932212591171265,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.8723037242889404,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7605411410331726,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5016812682151794,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4719489812850952,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4314272701740265,
+        "time": "2026-02-01 22:25:10",
+        "image_path": "alerts/images/cam0_20260201_222510.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5936650037765503,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.8219175338745117,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.606103241443634,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.45194247364997864,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7059006690979004,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5792607665061951,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5487222671508789,
+        "time": "2026-02-01 22:25:11",
+        "image_path": "alerts/images/cam0_20260201_222511.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.40341827273368835,
+        "time": "2026-02-01 22:25:12",
+        "image_path": "alerts/images/cam0_20260201_222512.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4175885319709778,
+        "time": "2026-02-01 22:25:12",
+        "image_path": "alerts/images/cam0_20260201_222512.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5966805219650269,
+        "time": "2026-02-01 22:25:14",
+        "image_path": "alerts/images/cam0_20260201_222514.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6051477193832397,
+        "time": "2026-02-01 22:25:14",
+        "image_path": "alerts/images/cam0_20260201_222514.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6005513668060303,
+        "time": "2026-02-01 22:25:14",
+        "image_path": "alerts/images/cam0_20260201_222514.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.8438023328781128,
+        "time": "2026-02-01 22:25:15",
+        "image_path": "alerts/images/cam0_20260201_222515.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.46920913457870483,
+        "time": "2026-02-01 22:25:15",
+        "image_path": "alerts/images/cam0_20260201_222515.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4607481360435486,
+        "time": "2026-02-01 22:25:15",
+        "image_path": "alerts/images/cam0_20260201_222515.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4033542573451996,
+        "time": "2026-02-01 22:25:18",
+        "image_path": "alerts/images/cam0_20260201_222518.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4914567172527313,
+        "time": "2026-02-01 22:25:19",
+        "image_path": "alerts/images/cam0_20260201_222519.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44523245096206665,
+        "time": "2026-02-01 22:25:22",
+        "image_path": "alerts/images/cam0_20260201_222522.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5351573824882507,
+        "time": "2026-02-01 22:25:26",
+        "image_path": "alerts/images/cam0_20260201_222526.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44721224904060364,
+        "time": "2026-02-01 22:25:26",
+        "image_path": "alerts/images/cam0_20260201_222526.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4056691825389862,
+        "time": "2026-02-01 22:25:26",
+        "image_path": "alerts/images/cam0_20260201_222526.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4804512560367584,
+        "time": "2026-02-01 22:25:31",
+        "image_path": "alerts/images/cam0_20260201_222531.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.42025497555732727,
+        "time": "2026-02-01 22:25:34",
+        "image_path": "alerts/images/cam0_20260201_222534.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44338488578796387,
+        "time": "2026-02-01 22:31:03",
+        "image_path": "alerts/images/cam0_20260201_223103.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.47661635279655457,
+        "time": "2026-02-01 22:31:04",
+        "image_path": "alerts/images/cam0_20260201_223104.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.840237557888031,
+        "time": "2026-02-01 22:31:04",
+        "image_path": "alerts/images/cam0_20260201_223104.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4925711154937744,
+        "time": "2026-02-01 22:31:07",
+        "image_path": "alerts/images/cam0_20260201_223107.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44939738512039185,
+        "time": "2026-02-01 22:31:07",
+        "image_path": "alerts/images/cam0_20260201_223107.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5010282397270203,
+        "time": "2026-02-01 22:31:08",
+        "image_path": "alerts/images/cam0_20260201_223108.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.41615745425224304,
+        "time": "2026-02-01 22:31:09",
+        "image_path": "alerts/images/cam0_20260201_223109.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7349614500999451,
+        "time": "2026-02-01 22:31:10",
+        "image_path": "alerts/images/cam0_20260201_223110.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6860170960426331,
+        "time": "2026-02-01 22:31:10",
+        "image_path": "alerts/images/cam0_20260201_223110.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4506188631057739,
+        "time": "2026-02-01 22:31:10",
+        "image_path": "alerts/images/cam0_20260201_223110.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4354174733161926,
+        "time": "2026-02-01 22:31:11",
+        "image_path": "alerts/images/cam0_20260201_223111.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.40721866488456726,
+        "time": "2026-02-01 22:31:11",
+        "image_path": "alerts/images/cam0_20260201_223111.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5784955024719238,
+        "time": "2026-02-01 22:32:09",
+        "image_path": "alerts/images/cam0_20260201_223209.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4599496126174927,
+        "time": "2026-02-01 22:32:09",
+        "image_path": "alerts/images/cam0_20260201_223209.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4984375834465027,
+        "time": "2026-02-01 22:32:13",
+        "image_path": "alerts/images/cam0_20260201_223213.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4642341136932373,
+        "time": "2026-02-01 22:32:13",
+        "image_path": "alerts/images/cam0_20260201_223213.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4192070960998535,
+        "time": "2026-02-01 22:32:13",
+        "image_path": "alerts/images/cam0_20260201_223213.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4474370777606964,
+        "time": "2026-02-01 22:32:26",
+        "image_path": "alerts/images/cam0_20260201_223226.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4709736406803131,
+        "time": "2026-02-01 22:32:32",
+        "image_path": "alerts/images/cam0_20260201_223232.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5458759069442749,
+        "time": "2026-02-01 22:32:32",
+        "image_path": "alerts/images/cam0_20260201_223232.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.45743685960769653,
+        "time": "2026-02-01 22:32:42",
+        "image_path": "alerts/images/cam0_20260201_223242.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.40498992800712585,
+        "time": "2026-02-01 22:32:42",
+        "image_path": "alerts/images/cam0_20260201_223242.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5537512898445129,
+        "time": "2026-02-01 22:32:44",
+        "image_path": "alerts/images/cam0_20260201_223244.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7816661596298218,
+        "time": "2026-02-01 22:32:49",
+        "image_path": "alerts/images/cam0_20260201_223249.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.8290162086486816,
+        "time": "2026-02-01 22:32:50",
+        "image_path": "alerts/images/cam0_20260201_223250.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.673805832862854,
+        "time": "2026-02-01 22:32:50",
+        "image_path": "alerts/images/cam0_20260201_223250.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5592895746231079,
+        "time": "2026-02-01 22:32:50",
+        "image_path": "alerts/images/cam0_20260201_223250.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4873304069042206,
+        "time": "2026-02-01 22:32:50",
+        "image_path": "alerts/images/cam0_20260201_223250.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5507563948631287,
+        "time": "2026-02-01 22:32:52",
+        "image_path": "alerts/images/cam0_20260201_223252.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5378431081771851,
+        "time": "2026-02-01 22:32:52",
+        "image_path": "alerts/images/cam0_20260201_223252.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.478190153837204,
+        "time": "2026-02-01 22:32:52",
+        "image_path": "alerts/images/cam0_20260201_223252.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.41223159432411194,
+        "time": "2026-02-01 22:32:52",
+        "image_path": "alerts/images/cam0_20260201_223252.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4565514326095581,
+        "time": "2026-02-01 22:32:53",
+        "image_path": "alerts/images/cam0_20260201_223253.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44707831740379333,
+        "time": "2026-02-01 22:32:53",
+        "image_path": "alerts/images/cam0_20260201_223253.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5832774639129639,
+        "time": "2026-02-01 22:32:53",
+        "image_path": "alerts/images/cam0_20260201_223253.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.417315810918808,
+        "time": "2026-02-01 22:32:53",
+        "image_path": "alerts/images/cam0_20260201_223253.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6527947783470154,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6454407572746277,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.46575066447257996,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5072233080863953,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.48970547318458557,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.85208660364151,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7624733448028564,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.7471797466278076,
+        "time": "2026-02-01 22:32:54",
+        "image_path": "alerts/images/cam0_20260201_223254.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5295615196228027,
+        "time": "2026-02-01 22:32:55",
+        "image_path": "alerts/images/cam0_20260201_223255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4376412332057953,
+        "time": "2026-02-01 22:32:55",
+        "image_path": "alerts/images/cam0_20260201_223255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6772604584693909,
+        "time": "2026-02-01 22:32:55",
+        "image_path": "alerts/images/cam0_20260201_223255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5253626108169556,
+        "time": "2026-02-01 22:32:55",
+        "image_path": "alerts/images/cam0_20260201_223255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5486294031143188,
+        "time": "2026-02-01 22:32:56",
+        "image_path": "alerts/images/cam0_20260201_223256.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4853706955909729,
+        "time": "2026-02-01 22:32:56",
+        "image_path": "alerts/images/cam0_20260201_223256.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4554027020931244,
+        "time": "2026-02-02 00:28:37",
+        "image_path": "alerts/images/cam0_20260202_002837.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4112875461578369,
+        "time": "2026-02-02 00:28:38",
+        "image_path": "alerts/images/cam0_20260202_002838.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44240039587020874,
+        "time": "2026-02-02 10:12:55",
+        "image_path": "alerts/images/cam0_20260202_101255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4370010495185852,
+        "time": "2026-02-02 10:12:55",
+        "image_path": "alerts/images/cam0_20260202_101255.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.49474474787712097,
+        "time": "2026-02-02 10:12:56",
+        "image_path": "alerts/images/cam0_20260202_101256.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4053046405315399,
+        "time": "2026-02-02 10:12:56",
+        "image_path": "alerts/images/cam0_20260202_101256.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4786469340324402,
+        "time": "2026-02-02 10:13:00",
+        "image_path": "alerts/images/cam0_20260202_101300.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4072133004665375,
+        "time": "2026-02-02 10:13:01",
+        "image_path": "alerts/images/cam0_20260202_101301.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5438971519470215,
+        "time": "2026-02-02 10:13:01",
+        "image_path": "alerts/images/cam0_20260202_101301.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4744281470775604,
+        "time": "2026-02-02 10:13:02",
+        "image_path": "alerts/images/cam0_20260202_101302.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4035816192626953,
+        "time": "2026-02-02 10:13:06",
+        "image_path": "alerts/images/cam0_20260202_101306.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4829045534133911,
+        "time": "2026-02-02 10:13:10",
+        "image_path": "alerts/images/cam0_20260202_101310.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.46287915110588074,
+        "time": "2026-02-02 10:13:13",
+        "image_path": "alerts/images/cam0_20260202_101313.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4310073256492615,
+        "time": "2026-02-02 10:13:14",
+        "image_path": "alerts/images/cam0_20260202_101314.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.40857627987861633,
+        "time": "2026-02-02 10:13:14",
+        "image_path": "alerts/images/cam0_20260202_101314.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5515568256378174,
+        "time": "2026-02-02 10:13:18",
+        "image_path": "alerts/images/cam0_20260202_101318.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.423562616109848,
+        "time": "2026-02-02 10:13:18",
+        "image_path": "alerts/images/cam0_20260202_101318.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5154299736022949,
+        "time": "2026-02-02 10:13:24",
+        "image_path": "alerts/images/cam0_20260202_101324.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.48049041628837585,
+        "time": "2026-02-02 10:13:31",
+        "image_path": "alerts/images/cam0_20260202_101331.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.42241227626800537,
+        "time": "2026-02-02 10:13:33",
+        "image_path": "alerts/images/cam0_20260202_101333.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5180165767669678,
+        "time": "2026-02-02 10:13:33",
+        "image_path": "alerts/images/cam0_20260202_101333.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4146200120449066,
+        "time": "2026-02-02 10:13:36",
+        "image_path": "alerts/images/cam0_20260202_101336.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4666355550289154,
+        "time": "2026-02-02 10:13:37",
+        "image_path": "alerts/images/cam0_20260202_101337.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4663510322570801,
+        "time": "2026-02-02 10:13:37",
+        "image_path": "alerts/images/cam0_20260202_101337.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.509285032749176,
+        "time": "2026-02-02 10:13:38",
+        "image_path": "alerts/images/cam0_20260202_101338.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4531903862953186,
+        "time": "2026-02-02 10:13:40",
+        "image_path": "alerts/images/cam0_20260202_101340.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.43477460741996765,
+        "time": "2026-02-02 10:13:40",
+        "image_path": "alerts/images/cam0_20260202_101340.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5126647353172302,
+        "time": "2026-02-02 11:11:51",
+        "image_path": "alerts/images/cam0_20260202_111151.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5708346962928772,
+        "time": "2026-02-02 11:11:52",
+        "image_path": "alerts/images/cam0_20260202_111152.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.6176232099533081,
+        "time": "2026-02-02 11:11:53",
+        "image_path": "alerts/images/cam0_20260202_111153.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5033671855926514,
+        "time": "2026-02-02 11:11:53",
+        "image_path": "alerts/images/cam0_20260202_111153.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4134148359298706,
+        "time": "2026-02-02 11:11:53",
+        "image_path": "alerts/images/cam0_20260202_111153.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.42463216185569763,
+        "time": "2026-02-02 11:11:55",
+        "image_path": "alerts/images/cam0_20260202_111155.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.41355860233306885,
+        "time": "2026-02-02 11:11:55",
+        "image_path": "alerts/images/cam0_20260202_111155.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4413222670555115,
+        "time": "2026-02-02 11:11:56",
+        "image_path": "alerts/images/cam0_20260202_111156.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5518071055412292,
+        "time": "2026-02-02 11:11:56",
+        "image_path": "alerts/images/cam0_20260202_111156.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.47585341334342957,
+        "time": "2026-02-02 11:11:56",
+        "image_path": "alerts/images/cam0_20260202_111156.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.44786337018013,
+        "time": "2026-02-02 11:11:56",
+        "image_path": "alerts/images/cam0_20260202_111156.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.49798810482025146,
+        "time": "2026-02-02 11:11:57",
+        "image_path": "alerts/images/cam0_20260202_111157.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.40794679522514343,
+        "time": "2026-02-02 11:11:57",
+        "image_path": "alerts/images/cam0_20260202_111157.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.5274399518966675,
+        "time": "2026-02-02 11:11:57",
+        "image_path": "alerts/images/cam0_20260202_111157.jpg"
+    },
+    {
+        "camera_id": 0,
+        "weapon_type": "knife",
+        "confidence": 0.4775472581386566,
+        "time": "2026-02-02 11:11:57",
+        "image_path": "alerts/images/cam0_20260202_111157.jpg"
+    }
+]

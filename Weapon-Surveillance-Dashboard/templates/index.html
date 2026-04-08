@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Smart Weapon Surveillance</title>
+    <script>
+        async function loadAlerts() {
+            const res = await fetch("/alerts");
+            const alerts = await res.json();
+
+            let table = document.getElementById("alerts-table");
+            table.innerHTML = "";
+
+            alerts.reverse().forEach(a => {
+                let row = `
+                <tr>
+                    <td>${a.camera_id}</td>
+                    <td>${a.weapon_type}</td>
+                    <td>${a.confidence}</td>
+                    <td>${a.time}</td>
+                    <td>
+                        <img src="${a.image_path}" width="120">
+                    </td>
+                </tr>`;
+                table.innerHTML += row;
+            });
+        }
+
+        setInterval(loadAlerts, 3000);
+    </script>
+</head>
+
+<body onload="loadAlerts()">
+
+<h2>Live Camera Feeds</h2>
+<img src="/video/0" width="45%">
+<img src="/video/1" width="45%">
+
+<hr>
+
+<h2>Weapon Detection Alerts</h2>
+
+<table border="1" cellpadding="8">
+    <thead>
+        <tr>
+            <th>Camera</th>
+            <th>Weapon</th>
+            <th>Confidence</th>
+            <th>Time</th>
+            <th>Snapshot</th>
+        </tr>
+    </thead>
+    <tbody id="alerts-table"></tbody>
+</table>
+
+</body>
+</html>
