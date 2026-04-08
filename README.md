@@ -95,7 +95,7 @@ Although it was a newly-released version during our YOLO-training phase, YOLOv26
 
 I myself have personally trained YOLOv26 on all the datasets
 
-**SSD**
+**SSD - Single Shot Detector**
 SSD is used as a baseline model to compare traditional one-stage detection with advanced YOLO architectures. It is implemented with different backbone networks such as MobileNetV3-Large, EfficientNetB0 and ResNet50. It includes features such as:
 
 - Multi-scale feature maps for detecting objects of different sizes
