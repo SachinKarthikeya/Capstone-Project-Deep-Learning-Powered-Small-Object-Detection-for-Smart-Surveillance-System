@@ -66,6 +66,7 @@ Additional Info:
 We have trained mainly two base models i.e., YOLO (You Only Look Once) and SSD (Single Shot Detector), with different version and backbones in action. 
 
 **YOLOv11**
+
 YOLOv11 serves as an improved baseline model with enhanced feature extraction and real-time capability. It includes features such as:
 
 - Improved backbone for better feature extraction
@@ -76,6 +77,7 @@ YOLOv11 serves as an improved baseline model with enhanced feature extraction an
 We have trained YOLOv11 on all the datasets, myself personally training on Dataset-3 (Knives)
 
 **YOLOv12**
+
 YOLOv12 is used as a high-performance comparison model, particularly strong in accuracy and robustness. It includes features such as:
 
 - Advanced attention mechanisms for cluttered environments
@@ -86,6 +88,7 @@ YOLOv12 is used as a high-performance comparison model, particularly strong in a
 We have trained YOLOv12 on all the datasets, myself personally training on Dataset-3 (Knives)
 
 **YOLOv26**
+
 Although it was a newly-released version during our YOLO-training phase, YOLOv26 is selected due to its advanced architecture and superior efficiency in detecting small and occluded objects in real-time. It includes features such as:
 
 - End-to-end NMS-free detection, reducing latency and improving inference speed
@@ -96,6 +99,7 @@ Although it was a newly-released version during our YOLO-training phase, YOLOv26
 I myself have personally trained YOLOv26 on all the datasets
 
 **SSD - Single Shot Detector**
+
 SSD is used as a baseline model to compare traditional one-stage detection with advanced YOLO architectures. It is implemented with different backbone networks such as MobileNetV3-Large, EfficientNetB0 and ResNet50. It includes features such as:
 
 - Multi-scale feature maps for detecting objects of different sizes
